@@ -51,6 +51,7 @@
     width: 1000px;
     height: 350px;      
     float: left;
+    padding-left: 190px;
     margin: 0 332px 0 268px;      /* 老子一点点调试出来的 */
     background-color: white;
 }
@@ -137,8 +138,9 @@
     width: 1000px;
     height: 300px;      
     float: left;
+    padding-left: 190px;
     margin: 0 332px 0 268px;      /* 老子一点点调试出来的 */
-    background-color: black;
+    background-color: white;
 }
 #foot .top{
     width: 1000px;
